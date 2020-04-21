@@ -1,0 +1,8 @@
+la api se encuentra en http://127.0.0.1:8000
+
+Para la Api utilize Symfony y Docker 
+
+Si prefiere usar la instalador Local  de MySQL en lo lugar de docker solo es cambiar la configuración DATABASE_URL de conexión en el archivo .env 
+ 
+Para ejecutar el archivo en symfony es solo con el comando 
+> symfony serve 
